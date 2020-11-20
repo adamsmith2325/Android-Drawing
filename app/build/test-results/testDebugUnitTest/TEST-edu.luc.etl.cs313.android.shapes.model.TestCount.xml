@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.luc.etl.cs313.android.shapes.model.TestCount" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-03-25T21:45:16" hostname="DESKTOP-7OLQTG4" time="0.004">
+  <properties/>
+  <testcase name="testLocation" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.001"/>
+  <testcase name="testOutline" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.0"/>
+  <testcase name="testFill" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.0"/>
+  <testcase name="testPolygon" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.001"/>
+  <testcase name="testGroupMiddle" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.0"/>
+  <testcase name="testGroupSimple" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.001"/>
+  <testcase name="testStrokeColor" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.0"/>
+  <testcase name="testCircle" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.0"/>
+  <testcase name="testGroupComplex" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.001"/>
+  <testcase name="testRectangle" classname="edu.luc.etl.cs313.android.shapes.model.TestCount" time="0.0"/>
+  <system-out><![CDATA[false
+edu.luc.etl.cs313.android.shapes.model.Rectangle@29695532
+true
+edu.luc.etl.cs313.android.shapes.model.Group@11865e25
+false
+edu.luc.etl.cs313.android.shapes.model.Circle@72a559e2
+false
+edu.luc.etl.cs313.android.shapes.model.Rectangle@34b3d3f2
+true
+edu.luc.etl.cs313.android.shapes.model.Group@306ade8
+false
+edu.luc.etl.cs313.android.shapes.model.StrokeColor@2052bcdb
+false
+edu.luc.etl.cs313.android.shapes.model.StrokeColor@78e08b7a
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

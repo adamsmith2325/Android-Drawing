@@ -1,0 +1,4 @@
+#Wed Mar 25 16:44:38 CDT 2020
+base.0=C\:\\cs313413sp20team1p3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

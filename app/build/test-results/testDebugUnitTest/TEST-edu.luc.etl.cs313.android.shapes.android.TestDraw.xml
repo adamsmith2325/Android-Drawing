@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.luc.etl.cs313.android.shapes.android.TestDraw" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-25T21:45:16" hostname="DESKTOP-7OLQTG4" time="0.026">
+  <properties/>
+  <testcase name="testSimpleGroup" classname="edu.luc.etl.cs313.android.shapes.android.TestDraw" time="0.016"/>
+  <testcase name="testComplexGroup" classname="edu.luc.etl.cs313.android.shapes.android.TestDraw" time="0.008"/>
+  <testcase name="testSimpleLocation" classname="edu.luc.etl.cs313.android.shapes.android.TestDraw" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

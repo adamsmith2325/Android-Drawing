@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\cs313413sp20team1p3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\cs313413sp20team1p3\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "77",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\adams\\.gradle\\caches\\transforms-2\\files-2.1\\9f6ccbdb6ef007b755425dedf56ed86d\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "4,11,12,13,19,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "301,818,889,972,1382,2040,2160,2223,2377,2440",
+                        "endLines": "8,11,12,18,24,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "572,884,967,1377,1799,2155,2218,2372,2435,2567"
+                    },
+                    "to": {
+                        "startLines": "3,8,9,10,16,22,23,24,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "132,408,479,562,972,1394,1514,1577,1731,1794",
+                        "endLines": "7,8,9,15,21,22,23,26,27,28",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "403,474,557,967,1389,1509,1572,1726,1789,1921"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:1-21:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\9f6ccbdb6ef007b755425dedf56ed86d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\2f5725376125c62f08a66723def554f1\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:2:5-55
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:6:5-19:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\9f6ccbdb6ef007b755425dedf56ed86d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\9f6ccbdb6ef007b755425dedf56ed86d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\2f5725376125c62f08a66723def554f1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\2f5725376125c62f08a66723def554f1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:7:9-45
+	android:theme
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:9:9-40
+activity#edu.luc.etl.cs313.android.shapes.android.SimpleDrawActivity
+ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:12:13-56
+	android:name
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:11:13-87
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\9f6ccbdb6ef007b755425dedf56ed86d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\9f6ccbdb6ef007b755425dedf56ed86d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\2f5725376125c62f08a66723def554f1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\adams\.gradle\caches\transforms-2\files-2.1\2f5725376125c62f08a66723def554f1\AndroidManifest.xml:20:5-43
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+		ADDED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\cs313413sp20team1p3\app\src\main\AndroidManifest.xml
